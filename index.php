@@ -8,11 +8,10 @@
 <head>
 		<title>FriendsMe</title>
 	<meta charset="utf-8">
-	<meta property="fb:pages" content="235183190249926" />
-  <meta property="fb:use_automatic_ad_placement" content="enable=true ad_density=default">
+	
 
 
-	<meta name="google-site-verification" content="h2HBLaPnCRo7_VBdbo4XqRB8hndJQIB4xdFqyWHYdJI" />
+	
 	<meta name="viewport" content="width=device-width, initial-scale=1">	
 	<link rel="icon" type="image/png" href="images/f-icon.png" />
 	<script type="text/javascript" src="jquery_files/cycle2.js"></script>
@@ -632,14 +631,10 @@ body{
 		<div id="my_intro">
 			
 				<h2>Developer -&nbsp <a href="http:\\my-portfolio.comeze.com" target='_blank' style=''>Shah&nbspFahad</a></h2>
-		<figure class="op-ad">
-  <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=135062817205171_135069977204455&adtype=banner300x250"></iframe>
-</figure>
+		
 		</div>
 </div>	
-<figure class="op-ad">
-  <iframe width="300" height="250" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=135062817205171_135062830538503&adtype=banner300x250"></iframe>
-</figure>	
+
 		<!------------my introduction 
 		<div id="d_name_intro" >	
 			<img src="images/fahad.jpg" alt="Developer" width="40%" height="189px" style=" padding:5px; border:groove; border-width:thin;"/>		
