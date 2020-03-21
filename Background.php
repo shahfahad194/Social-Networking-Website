@@ -14,7 +14,7 @@
 	margin:0px;
 	padding:0px;
 }
-body{background:lightgray;}
+body{background:gray;}
 #title{
 		width:auto;
 		height:100px;
